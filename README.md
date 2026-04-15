@@ -1,5 +1,8 @@
 # Ammonia-Net
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![arXiv](https://img.shields.io/badge/arXiv-2310.03472-b31b1b.svg)](https://arxiv.org/abs/2310.03472)
+
 <p align="center">
   <img src="./Ammonia-Net%20Logo.png" alt="Ammonia-Net Logo" width="500" />
 </p>
@@ -18,6 +21,14 @@ The repository also emphasizes a **two-stage training schedule**:
 That pretrain -> post-train workflow, together with the segmentation + classification multi-task design, is the main idea of this repository.
 
 Preprint: [Ammonia-Net: A Multi-task Joint Learning Model for Multi-class Segmentation and Classification in Tooth-marked Tongue Diagnosis](https://arxiv.org/abs/2310.03472)
+
+## Project Timeline
+
+This repository contains the official GitHub code release of **Ammonia-Net**.
+
+- The core research and original implementation were completed between **October 2022** and **May 1, 2023**
+- The corresponding preprint was released in **2023**
+- The codebase was refactored for public release and open-sourced in **2026**
 
 ## Highlights
 
@@ -354,7 +365,11 @@ Preprint: https://arxiv.org/abs/2310.03472
 
 ## Acknowledgement
 
-The initial code draft, developed between October 2022 and April 30, 2023, referenced:
+The original codebase for this project was developed between **October 2022** and **May 1, 2023**.
+Before the public GitHub release in **2026**, the code was refactored for several days for cleanup and open-source release.
+ 
+
+Parts of the early implementation referenced:
 https://github.com/WZMIAOMIAO/deep-learning-for-image-processing.git
 
 ## Affiliation
@@ -366,3 +381,20 @@ https://github.com/WZMIAOMIAO/deep-learning-for-image-processing.git
 - Xi'an Jiaotong University
 - Shandong University
 - ShanghaiTech University
+
+## License
+ 
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details. 
+
+## Citation
+
+If you use this code in your research, please cite the corresponding preprint:
+
+```bibtex
+@article{shi2023ammonia,
+  title={Ammonia-net: a multi-task joint learning model for multi-class segmentation and classification in tooth-marked tongue diagnosis},
+  author={Shi, Shunkai and Wang, Yuqi and Ye, Qihui and Wang, Yanran and Zhu, Yiming and Hassan, Muhammad and Melliou, Aikaterini and Yu, Dongmei},
+  journal={arXiv preprint arXiv:2310.03472},
+  year={2023}
+}
+```
