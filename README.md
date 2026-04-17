@@ -1,8 +1,8 @@
 # Ammonia-Net
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![arXiv](https://img.shields.io/badge/arXiv-2310.03472-b31b1b.svg)](https://arxiv.org/abs/2310.03472)
 [![Codebase GitHub](https://img.shields.io/badge/Codebase-GitHub-1f1f1f?logo=github&logoColor=white&labelColor=555555&style=flat)](https://github.com/NexusMancer/Ammonia-Net)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
   <img src="./Ammonia-Net%20Logo.png" alt="Ammonia-Net Logo" width="500" />
